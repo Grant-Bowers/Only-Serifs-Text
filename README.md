@@ -8,6 +8,7 @@ Some parts of the remaining typeface are not technically serifs, but were kept i
 
 ## Design
 <img src="assets/Specimen_1.png" width="800">
+
 This typeface is an edit of Libre Caslon by Impallari Type. It is most suited for text setting (anything below 14pt).
 
 ## Installation
